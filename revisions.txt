@@ -1,0 +1,2 @@
+- change logo (provide transparent version)
++ change the header text
